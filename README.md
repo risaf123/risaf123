@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Risaf 👋
 
-<!--
-**risaf123/risaf123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE student focused on Backend Development.  
+Currently building strong fundamentals in Python, Data Structures & Algorithms.
 
-Here are some ideas to get you started:
+💻 Currently
+- Practicing DSA consistently
+- Learning Backend (APIs, Databases)
+- Building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+Python | SQL | Git | HTML/CSS
+
+📌 Featured Projects
+- API-based Weather Application
+- CRUD Database Project
+- DSA Practice Repository
+
+🌐 Connect
+LinkedIn: https://linkedin.com/in/your-id
+
+
